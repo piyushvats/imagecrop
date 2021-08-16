@@ -30,12 +30,16 @@ We used tilt using Houghline method for detect radius and angle , which we used 
 but batter than all other.
 
 
-Requirements 
+Requirements:- 
+
 -numpy
+
 -matplotlib
+
 -statistics
+
 -opencv
 
 
-Licence
+Licence:
 MIT
